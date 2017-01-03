@@ -1,0 +1,2 @@
+# Kwadrat
+Quadratic equation solver
